@@ -1,0 +1,33 @@
+{
+  "players": [
+    {
+      "id": 1,
+      "name": "Jude Bellingham",
+      "team": "Real Madrid",
+      "position": "Midfielder",
+      "image": "https://example.com/bellingham.png"
+    },
+    {
+      "id": 2,
+      "name": "Kylian Mbappé",
+      "team": "PSG",
+      "position": "Forward",
+      "image": "https://example.com/mbappe.png"
+    },
+    {
+        "id":3,
+        "name": "Vinicious JR",
+        "team": "Real Madrid",
+        "position": "Forward",
+        "image":""
+    }
+  ],
+  "notes": [
+    {
+      "id": 1,
+      "playerId": 1,
+      "scout": "Mike Howard",
+      "comment": "Shows great awareness and stamina."
+    }
+  ]
+}
