@@ -1,33 +1,39 @@
 {
   "players": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Jude Bellingham",
       "team": "Real Madrid",
       "position": "Midfielder",
-      "image": "https://example.com/bellingham.png"
+      "image": "https://icdn.football-espana.net/wp-content/uploads/2023/08/athletic-club-v-real-madrid-cf-laliga-ea-sports.jpg"
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Kylian Mbappé",
       "team": "PSG",
       "position": "Forward",
-      "image": "https://example.com/mbappe.png"
+      "image": "https://static.bongda24h.vn/medias/original/2024/08/02/kylian-mbappe-0208142358.jpg"
     },
     {
-        "id":3,
-        "name": "Vinicious JR",
-        "team": "Real Madrid",
-        "position": "Forward",
-        "image":""
+      "id": "3",
+      "name": "Vinicius JR",
+      "team": "Real Madrid",
+      "position": "Forward",
+      "image": "https://www.topmercato.com/app/uploads/2023/10/Vinicius-Junior-Real-Madrid.jpg"
     }
   ],
   "notes": [
     {
-      "id": 1,
+      "id": "1",
       "playerId": 1,
       "scout": "Mike Howard",
       "comment": "Shows great awareness and stamina."
+    },
+    {
+      "id": "9ac5",
+      "scout": "Jhon Drinkwater",
+      "comment": "Vini had an excellent season, with a good amount of assistance.",
+      "playerId": 3
     }
   ]
 }
