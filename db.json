@@ -20,6 +20,20 @@
       "team": "Real Madrid",
       "position": "Forward",
       "image": "https://www.topmercato.com/app/uploads/2023/10/Vinicius-Junior-Real-Madrid.jpg"
+    },
+    {
+      "id":"4",
+      "name":"Lamine Yamal",
+      "team":"Barcelona FC",
+      "position":"Left Back",
+      "image":"https://iv1.lisimg.com/image/27842775/740full-lamine-yamal.jpg"
+    },
+    {
+      "id":"5",
+      "name":"Osman Dembele",
+      "team":"PSG",
+      "position":"Forward",
+      "image": "https://i.pinimg.com/originals/5f/5a/2e/5f5a2e0ee8e3dc322b6c05248c88b1b7.jpg"
     }
   ],
   "notes": [
