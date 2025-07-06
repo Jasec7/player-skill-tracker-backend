@@ -10,7 +10,7 @@
     {
       "id": "2",
       "name": "Kylian Mbappé",
-      "team": "PSG",
+      "team": "Real Madrid",
       "position": "Forward",
       "image": "https://static.bongda24h.vn/medias/original/2024/08/02/kylian-mbappe-0208142358.jpg"
     },
@@ -34,6 +34,20 @@
       "team":"PSG",
       "position":"Forward",
       "image": "https://i.pinimg.com/originals/5f/5a/2e/5f5a2e0ee8e3dc322b6c05248c88b1b7.jpg"
+    },
+    {
+     "id":"6",
+      "name":"Micky van de Ven",
+      "team":"Tottenham Hostpur",
+      "position":"Center Back",
+      "image":"https://www.zerozero.pt/img/jogadores/new/30/15/753015_micky_van_de_ven_20240817012611.png"
+    },
+    {
+      "id":"7",
+      "name":"Alejandro Garnacho",
+      "team":"Manchester United",
+      "position":"Forward",
+      "image":"https://cdn.futwiz.com/assets/img/fc25/faces/268438.png?25"
     }
   ],
   "notes": [
