@@ -20,3 +20,9 @@ npm run server
 ```
 
 The server will run at `http://localhost:3001`.
+
+## 📄 License
+This project is licensed under the MIT License.
+
+## 👥 Contributors
+- [Jasec7](https://github.com/Jasec7)
