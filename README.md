@@ -1,5 +1,7 @@
 # 📦 Player Skill Tracker Backend
 
+🌐 Live API: https://player-skill-tracker-backend.onrender.com
+
 This is the JSON Server backend for Player Skill Tracker. It provides API data for players and their performance notes.
 
 ---
