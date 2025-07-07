@@ -22,32 +22,32 @@
       "image": "https://www.topmercato.com/app/uploads/2023/10/Vinicius-Junior-Real-Madrid.jpg"
     },
     {
-      "id":"4",
-      "name":"Lamine Yamal",
-      "team":"Barcelona FC",
-      "position":"Left Back",
-      "image":"https://iv1.lisimg.com/image/27842775/740full-lamine-yamal.jpg"
+      "id": "4",
+      "name": "Lamine Yamal",
+      "team": "Barcelona FC",
+      "position": "Left Back",
+      "image": "https://iv1.lisimg.com/image/27842775/740full-lamine-yamal.jpg"
     },
     {
-      "id":"5",
-      "name":"Osman Dembele",
-      "team":"PSG",
-      "position":"Forward",
+      "id": "5",
+      "name": "Osman Dembele",
+      "team": "PSG",
+      "position": "Forward",
       "image": "https://i.pinimg.com/originals/5f/5a/2e/5f5a2e0ee8e3dc322b6c05248c88b1b7.jpg"
     },
     {
-     "id":"6",
-      "name":"Micky van de Ven",
-      "team":"Tottenham Hostpur",
-      "position":"Center Back",
-      "image":"https://www.zerozero.pt/img/jogadores/new/30/15/753015_micky_van_de_ven_20240817012611.png"
+      "id": "6",
+      "name": "Micky van de Ven",
+      "team": "Tottenham Hostpur",
+      "position": "Center Back",
+      "image": "https://www.zerozero.pt/img/jogadores/new/30/15/753015_micky_van_de_ven_20240817012611.png"
     },
     {
-      "id":"7",
-      "name":"Alejandro Garnacho",
-      "team":"Manchester United",
-      "position":"Forward",
-      "image":"https://cdn.futwiz.com/assets/img/fc25/faces/268438.png?25"
+      "id": "7",
+      "name": "Alejandro Garnacho",
+      "team": "Manchester United",
+      "position": "Forward",
+      "image": "https://cdn.futwiz.com/assets/img/fc25/faces/268438.png?25"
     }
   ],
   "notes": [
@@ -58,10 +58,16 @@
       "comment": "Shows great awareness and stamina."
     },
     {
-      "id": "9ac5",
+      "id": "2",
       "scout": "Jhon Drinkwater",
       "comment": "Vini had an excellent season, with a good amount of assistance.",
       "playerId": 3
+    },
+    {
+      "id": 3,
+      "scout": "Phill Thompson",
+      "comment": "Despite the injuries micky has an overall good season, I can't wait to see him next season without injuries.",
+      "playerId": 6
     }
   ]
 }
